@@ -1,6 +1,7 @@
 # [Uber] Архитектура Шестиугольной  Гео_Пространственной индексации
 ![Image alt](http://eng.uber.com/wp-content/uploads/2018/06/image12.png) 
 ![Image alt](http://images.myshared.ru/4/216868/slide_15.jpg) 
+![Image alt](http://www.dopotopa.com/images/earth_fields_1.jpg) 
 
 https://uber.github.io/h3/#/
 
